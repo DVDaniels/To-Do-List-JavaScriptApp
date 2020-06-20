@@ -10,3 +10,6 @@ The to do list app shows today's date to the user, for that we're using a method
 
 Last cosing issue I am working on:
 Only issue I am having is with localStorage. When reloading the page with active to-do's only the id's show up, the description dissapears.
+
+
+Original code repo is here --> https://github.com/CodeExplainedRepo/To-Do-List
